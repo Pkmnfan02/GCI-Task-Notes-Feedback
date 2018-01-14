@@ -13,7 +13,7 @@ Feed Back Questions
 Q.Were you able to set up the server?
 A. Yup, I could set up a server.
 Q.Did you get any errors. (What were they?)
-A. Yes, the game laucher provided didn't work for me
+A. Yes, the game laucher provided crashed and froze.
 Q.What was the hardest part of setting up the server?
 A. It was actually really simple for me. The friend I gave the address code to was on the same wifi, but if you were connecting to someone in a different country that could pose a problem, its just something to think about.
 Q.How do you think we could make it easier?
